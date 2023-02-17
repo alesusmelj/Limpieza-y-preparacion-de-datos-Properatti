@@ -1,5 +1,5 @@
 # Limpieza.-Dataset-Properatti
-Limpieza y preparación de datos. El dataset contiene registros de propiedades inmobiliarias. Proyecto para curso de Data Science
+El dataset contiene registros de propiedades inmobiliarias. Proyecto para curso de Data Science
 
 Libs:
 
